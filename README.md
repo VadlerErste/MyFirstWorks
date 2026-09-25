@@ -10,4 +10,4 @@
 - Pandas <img width="60" height="30" alt="image" src="https://github.com/user-attachments/assets/358f83b6-2746-4aa6-9796-9d7376a333e5" />
 - Jupiter Notebook <img width="45" height="35" alt="image" src="https://github.com/user-attachments/assets/7573d30b-eaee-4c10-ac61-c049f5607aee" />
 
-<iframe frameborder="0" src="https://datalens.yandex/g1sqtrx0lxw61?_no_controls=1"></iframe>
+https://datalens.yandex/g1sqtrx0lxw61?_no_controls=1
